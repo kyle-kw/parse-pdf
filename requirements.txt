@@ -1,0 +1,3 @@
+loguru==0.7.2
+PyMuPDF==1.23.7
+pydantic==2.5.2
